@@ -4,9 +4,31 @@
 
 ## Project Name: **"SmartValue: Real Estate Sales Insights (2017–2022)"**
 
+## 📚 Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Project Objective](#project-objective)
+3. [Dataset Description](#dataset-description)
+4. [Technologies Used](#technologies-used)
+5. [Data Cleaning & Preprocessing](#data-cleaning--preprocessing)
+6. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+   - Town-level Insights
+   - Property Type Performance
+   - Sales Trends Over Time
+7. [Predictive Modeling](#predictive-modeling)
+   - Modeling Question
+   - Model Pipeline
+   - Evaluation Metrics
+   - Predictions vs. Actuals
+   - Feature Importance
+8. [Interpretation & Key Takeaways](#-interpretation--key-takeaways)
+9. [Conclusion & Recommendations](#-conclusion--recommendations)
+10. [Final Thoughts](#-final-thoughts)
+11. [References](#-references)
+
 ---
 
-### 📖 Introduction
+### 📖 Project Overview
 
 This project involves the analysis of cleaned real estate sales data from the years **2017 to 2022**, focusing on various aspects such as property types, sale prices, assessed values, and sales ratios across different towns. The dataset provides useful information for understanding real estate trends in Connecticut, USA.
 
@@ -14,7 +36,7 @@ The project aims to derive actionable insights that can support stakeholders—i
 
 ---
 
-### Objectives
+### Project Objectives
 
 - Understand real estate market trends between 2017 and 2022.
 - Analyze variations in **Sale Amount**, **Sales Ratio**, and **Assessed Value** across towns.
