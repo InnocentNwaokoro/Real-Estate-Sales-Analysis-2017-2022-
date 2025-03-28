@@ -168,7 +168,7 @@ The presence of high sales ratio outliers may indicate **premium properties**, b
 
 ---
 
-###  Data Modeling
+###  Predictive Data Modeling
 
 **How accurately can we predict the sale amount of real estate properties in Connecticut using historical data from 2017 to 2022, based on features such as assessed value, property type, residential type, town, and sale year?**
 
