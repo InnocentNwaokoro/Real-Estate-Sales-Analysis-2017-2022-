@@ -61,8 +61,7 @@ The project aims to derive actionable insights that can support stakeholders—i
 
 - **URL:** [Data.gov Real Estate Sales](https://catalog.data.gov/dataset/real-estate-sales-2001-2018)
 - **File Used:** `Cleaned_Real_Estate_Sales_2017-2022_GL.csv`
-- **Records:** 223 cleaned records
-- **Features (Columns):** 14
+
 
 ---
 
